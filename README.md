@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="https://portal.uniasselvi.com.br/"><strong>Uniasselvi</strong></a>.
-- 💼 &nbsp; Trabalhando como <strong>Head Developer</strong> na <a href="(https://onnyx.com.br/)">Onnyx</a>
+- 💼 &nbsp; Trabalhando como <strong>Head Developer</strong> na <a href="https://onnyx.com.br/">Onnyx</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
 ## 🚀 Minhas Skills
