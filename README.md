@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="https://portal.uniasselvi.com.br/"><strong>Uniasselvi</strong></a>.
-- 💼 &nbsp; Trabalhando como <strong>Head Developer</strong> na <a href="https://onnyx.com.br/"><strong>Onnyx</strong></a>
 - 🌱 &nbsp; Aprendendo mais sobre
    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black)
    ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
