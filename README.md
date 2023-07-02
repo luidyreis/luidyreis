@@ -1,21 +1,15 @@
-### I’m Luidy Felix!  
+## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
 
-- 💻 <strong>*▪️Systems Analyst / System developer*</strong>
-- 📌 *Sólidos conhecimentos no desenvolvimento de sistemas com:*<strong> *Angular*,  *FullCalendar*, .Net. </strong>
+> Faça uma breve aprensentação sobre você e a sua área.
 
+🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
-- 🔭<strong>*Entusiasta da indutrisa 5.0, foco em processo de digitalização das atividades operacionais e produtivas, visando trazer um cenário tecnológico onde todos os processos operacionais e estratégicos são puramente análogicos, digitalizados e automatizados.*</strong>
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
-</strong>
+----
 
-<div align="center">
-  <a href="https://github.com/markos-jr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luidyreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidyreis&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
+## 🚀 Minhas Skills
 
-**Aplicações e Dados**<br>
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
   ![Laravel 9](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
   ![Cakephp 9](https://img.shields.io/badge/Cakephp-D33C43?style=flat-square&logo=cakephp&logoColor=white)
@@ -37,5 +31,16 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-  #
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+<div align="center">
+  <a href="https://github.com/markos-jr">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luidyreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidyreis&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+
+#
   
