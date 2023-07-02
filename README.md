@@ -1,12 +1,13 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-> Faça uma breve aprensentação sobre você e a sua área.
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
+- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
-----
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
 ## 🚀 Minhas Skills
 
