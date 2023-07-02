@@ -6,7 +6,8 @@
 - 🎓 &nbsp; Estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="https://portal.uniasselvi.com.br/"><strong>Uniasselvi</strong></a>.
 - 💼 &nbsp; Trabalhando como <strong>Head Developer</strong> na <a href="https://onnyx.com.br/">Onnyx</a>
 - 🌱 &nbsp; Aprendendo mais sobre
-   ![PHP](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black).
+   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black)
+   ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white).
 
 ## 🚀 Minhas Skills
 
