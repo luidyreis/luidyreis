@@ -9,12 +9,13 @@
    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black)
    ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
    ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white).
+   ![Apollo%20GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat-square&logo=Apollo%20GraphQL&logoColor=white)
 
 ## 🚀 Minhas Skills
 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
   ![Laravel 9](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-  ![Cakephp 9](https://img.shields.io/badge/Cakephp-D33C43?style=flat-square&logo=cakephp&logoColor=white)
+  ![Cakephp](https://img.shields.io/badge/Cakephp-D33C43?style=flat-square&logo=cakephp&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
