@@ -37,7 +37,7 @@
 ## ⭐ Informações sobre minha conta GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luidyreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=luidyreis&theme=dracula"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidyreis&theme=dracula"/>
 </div>
 <div align="center">
