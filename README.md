@@ -6,7 +6,7 @@
 
 - 🔭<strong>*Entusiasta da indutrisa 5.0, foco em processo de digitalização das atividades operacionais e produtivas, visando trazer um cenário tecnológico onde todos os processos operacionais e estratégicos são puramente análogicos, digitalizados e automatizados.*</strong>
 
-</strong> ...
+</strong>
 
 <div align="center">
   <a href="https://github.com/markos-jr">
@@ -15,7 +15,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-**Aplicações e Dados**
+**Aplicações e Dados**<br>
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
   ![Laravel 9](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
   ![Cakephp 9](https://img.shields.io/badge/Cakephp-D33C43?style=flat-square&logo=cakephp&logoColor=white)
