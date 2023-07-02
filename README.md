@@ -1,4 +1,4 @@
-### I’m Marcos Jr!  
+### I’m Luidy Felix!  
 
 - 💻 <strong>*▪️Systems Analyst / System developer*</strong>
 - 📌 *Sólidos conhecimentos no desenvolvimento de sistemas com:*<strong> *Angular*,  *FullCalendar*, .Net. </strong>
@@ -13,8 +13,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luidyreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidyreis&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 
+**Aplicações e Dados**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel 9](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Cakephp 9](https://img.shields.io/badge/Cakephp-D33C43?style=flat-square&logo=cakephp&logoColor=white)
@@ -35,11 +36,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-
- 
-</div>
 
   #
   
