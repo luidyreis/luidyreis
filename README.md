@@ -7,7 +7,8 @@
 - 💼 &nbsp; Trabalhando como <strong>Head Developer</strong> na <a href="https://onnyx.com.br/">Onnyx</a>
 - 🌱 &nbsp; Aprendendo mais sobre
    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black)
-   ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white).
+   ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white).
 
 ## 🚀 Minhas Skills
 
