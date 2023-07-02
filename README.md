@@ -1,13 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=luidyreis&color=006bed)
 
-<h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
+<h3> 🙇‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="https://portal.uniasselvi.com.br/"><strong>Uniasselvi</strong></a>.
 - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
-
-<h3> :rocket: &nbsp;Minhas Skills </h3>
 
 ## 🚀 Minhas Skills
 
