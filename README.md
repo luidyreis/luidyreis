@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Aprendendo mais sobre
    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black)
    ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white).
+   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
    ![Apollo%20GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat-square&logo=Apollo%20GraphQL&logoColor=white)
 
 ## 🚀 Minhas Skills
@@ -41,3 +41,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luidyreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidyreis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luidyreis&theme=dracula"/>
