@@ -13,7 +13,7 @@
 ## 🚀 Minhas Skills
 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![Laravel 9](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+  ![Laravel 11](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
   ![Cakephp](https://img.shields.io/badge/Cakephp-D33C43?style=flat-square&logo=cakephp&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -27,10 +27,3 @@
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-## ⭐ Informações sobre minha conta GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luidyreis&show_icons=true&include_all_commits=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidyreis&layout=compact&langs_count=7&theme=dracula"/>
-</div>
