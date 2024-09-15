@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="https://portal.uniasselvi.com.br/"><strong>Uniasselvi</strong></a>.
-- 🎓 &nbsp; Pós graduando em <strong>Engenharia de Software</strong> na <a href="https://estacio.br/"><strong>Estácio</strong></a>.
 - 🌱 &nbsp; Aprendendo mais sobre
    ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
    ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
